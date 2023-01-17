@@ -1,1 +1,373 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T06:44:56.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uYEuidt5yf4IZvXTR0eE" version="20.8.5" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-17T08:48:59.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IBLLQacH1UhPBiA3KOaD" version="20.8.5" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1026" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="100" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="合规规则库和&#xa;合规图谱系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="100" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="58" y="90" as="sourcePoint" />
+            <mxPoint x="52.5" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="83" y="90" />
+              <mxPoint x="83" y="140" />
+              <mxPoint x="73" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry x="45" y="170" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="180" as="sourcePoint" />
+            <mxPoint x="55" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="180" />
+              <mxPoint x="85.5" y="230" />
+              <mxPoint x="75.5" y="230" />
+              <mxPoint x="65" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-10" value="4.提交文件地址给NLP模块，&lt;br&gt;NLP进行拆分打标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-8">
+          <mxGeometry x="-0.0721" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="280" as="sourcePoint" />
+            <mxPoint x="55" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="280" />
+              <mxPoint x="85.5" y="330" />
+              <mxPoint x="75.5" y="330" />
+              <mxPoint x="65" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-16" value="5.保存法规属性、标签属性、&lt;br&gt;及标注关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-12">
+          <mxGeometry x="-0.009" y="-2" relative="1" as="geometry">
+            <mxPoint x="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-13" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry x="45" y="270" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="380" as="sourcePoint" />
+            <mxPoint x="55" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="380" />
+              <mxPoint x="85.5" y="430" />
+              <mxPoint x="75.5" y="430" />
+              <mxPoint x="65" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-19" value="6.同步数据到Elasticsearch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-14">
+          <mxGeometry x="0.036" y="-2" relative="1" as="geometry">
+            <mxPoint x="47" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-15" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry x="45" y="370" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="1.上传法规文件及附件" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="160" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-4" value="3.返回文件上传状态" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="174" y="227.99999999999977" as="targetPoint" />
+            <mxPoint x="444" y="227.99999999999977" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-5" value="2.保存法规及附件&lt;br&gt;至文件服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="850" as="sourcePoint" />
+            <mxPoint x="800" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830.5" y="850" />
+              <mxPoint x="830.5" y="900" />
+              <mxPoint x="820.5" y="900" />
+              <mxPoint x="810" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="840" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="550" as="sourcePoint" />
+            <mxPoint x="455" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="485.5" y="550" />
+              <mxPoint x="485.5" y="600" />
+              <mxPoint x="475.5" y="600" />
+              <mxPoint x="465" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-20" value="7.同步数据到FASGraph" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-17">
+          <mxGeometry x="-0.018" y="1" relative="1" as="geometry">
+            <mxPoint x="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="540" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-25" value="合规系统运维人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="100" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-26" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-25">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-27" value="合规规则库和&#xa;合规图谱系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="100" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-28" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry x="45" y="70" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="80" as="sourcePoint" />
+            <mxPoint x="55" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="80" />
+              <mxPoint x="85.5" y="130" />
+              <mxPoint x="75.5" y="130" />
+              <mxPoint x="65" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-33" value="2.读取拆分的外规属性及标注关系&lt;br&gt;提交给NLP模块，以便NLP自我学习" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-31">
+          <mxGeometry x="-0.0811" y="-1" relative="1" as="geometry">
+            <mxPoint x="67" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="163" as="sourcePoint" />
+            <mxPoint x="55" y="213" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="163" />
+              <mxPoint x="85.5" y="213" />
+              <mxPoint x="75.5" y="213" />
+              <mxPoint x="65" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-34" value="3.未拆分外规文档提交给NLP模块拆分打标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-32">
+          <mxGeometry x="-0.045" relative="1" as="geometry">
+            <mxPoint x="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="274" as="sourcePoint" />
+            <mxPoint x="55" y="324" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="274" />
+              <mxPoint x="85.5" y="324" />
+              <mxPoint x="75.5" y="324" />
+              <mxPoint x="65" y="324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-37" value="4.保存法规属性、标签属性、&lt;br&gt;及标注关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-36">
+          <mxGeometry x="-0.009" y="-2" relative="1" as="geometry">
+            <mxPoint x="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-38" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry x="45" y="264" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="374" as="sourcePoint" />
+            <mxPoint x="55" y="424" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="374" />
+              <mxPoint x="85.5" y="424" />
+              <mxPoint x="75.5" y="424" />
+              <mxPoint x="65" y="424" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-40" value="5.同步数据到Elasticsearch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-39">
+          <mxGeometry x="0.036" y="-2" relative="1" as="geometry">
+            <mxPoint x="47" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-41" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry x="45" y="364" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="464" as="sourcePoint" />
+            <mxPoint x="55" y="514" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="464" />
+              <mxPoint x="85.5" y="514" />
+              <mxPoint x="75.5" y="514" />
+              <mxPoint x="65" y="514" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-43" value="6.同步数据到FASGraph" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-42">
+          <mxGeometry x="-0.018" y="1" relative="1" as="geometry">
+            <mxPoint x="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-44" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry x="45" y="454" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.144;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p0kF1Ip6YaBu2bvxXF1x-26" target="p0kF1Ip6YaBu2bvxXF1x-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="890" as="sourcePoint" />
+            <mxPoint x="470" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-30" value="1.上传外规数据包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="735" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-45" value="合规管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1290" width="100" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-46" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-45">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-47" value="合规规则库和&#xa;合规图谱系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1290" width="100" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-48" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry x="45" y="70" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="80" as="sourcePoint" />
+            <mxPoint x="55" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="80" />
+              <mxPoint x="85.5" y="130" />
+              <mxPoint x="75.5" y="130" />
+              <mxPoint x="65" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-50" value="2.读取内规基本属性并保存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-49">
+          <mxGeometry x="-0.0811" y="-1" relative="1" as="geometry">
+            <mxPoint x="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="163" as="sourcePoint" />
+            <mxPoint x="55" y="213" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="163" />
+              <mxPoint x="85.5" y="213" />
+              <mxPoint x="75.5" y="213" />
+              <mxPoint x="65" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-52" value="3.内规文档提交给NLP模块拆分打标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-51">
+          <mxGeometry x="-0.045" relative="1" as="geometry">
+            <mxPoint x="81" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="274" as="sourcePoint" />
+            <mxPoint x="55" y="324" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="274" />
+              <mxPoint x="85.5" y="324" />
+              <mxPoint x="75.5" y="324" />
+              <mxPoint x="65" y="324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-54" value="4.更新法规属性、标签属性、&lt;br&gt;及标注关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-53">
+          <mxGeometry x="-0.009" y="-2" relative="1" as="geometry">
+            <mxPoint x="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-55" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry x="45" y="264" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="374" as="sourcePoint" />
+            <mxPoint x="55" y="424" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="374" />
+              <mxPoint x="85.5" y="424" />
+              <mxPoint x="75.5" y="424" />
+              <mxPoint x="65" y="424" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-57" value="5.同步数据到Elasticsearch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-56">
+          <mxGeometry x="0.036" y="-2" relative="1" as="geometry">
+            <mxPoint x="47" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-58" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry x="45" y="364" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="464" as="sourcePoint" />
+            <mxPoint x="55" y="514" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85.5" y="464" />
+              <mxPoint x="85.5" y="514" />
+              <mxPoint x="75.5" y="514" />
+              <mxPoint x="65" y="514" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-60" value="6.同步数据到FASGraph" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p0kF1Ip6YaBu2bvxXF1x-59">
+          <mxGeometry x="-0.018" y="1" relative="1" as="geometry">
+            <mxPoint x="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-61" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry x="45" y="454" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.144;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="p0kF1Ip6YaBu2bvxXF1x-46" target="p0kF1Ip6YaBu2bvxXF1x-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1500" as="sourcePoint" />
+            <mxPoint x="470" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0kF1Ip6YaBu2bvxXF1x-63" value="1.推送内规数据包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1345" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
